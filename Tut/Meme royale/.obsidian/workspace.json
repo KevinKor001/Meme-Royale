@@ -11,7 +11,7 @@
             "id": "c4f8800ea2d65325",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -121,12 +121,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,5 +139,8 @@
     }
   },
   "active": "c4f8800ea2d65325",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
 }
