@@ -1,0 +1,18 @@
+{Dependencies : 0130030039} [ 1,77,9,6 ] [@] [@] //V1 
+
+^RenderEngine : #./Render Engine.Assembly //Assembly files show ass ".assemblyInst" in the Engine
+^SpriteScreen : #.$.
+r2D == const1d *| w&2 + (000)(000)*(000) + (Loc++)
+
+
+
+$s~ NstObj Box(r2D){
+	Win.NewWindow[%7,%2,0] + [  0  1..  +0  ]
+	Win.Window^. [Nm"Meme Arena"]
+	Win.Window^.. [ RsD"1280#" "720~" ]
+			Al{newAb@@}
+			$3
+
+
+
+}
