@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\bin\Debug\net6.0\OptimusEngine.exe
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\bin\Debug\net6.0\OptimusEngine.deps.json
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\bin\Debug\net6.0\OptimusEngine.runtimeconfig.json
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\bin\Debug\net6.0\OptimusEngine.dll
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\bin\Debug\net6.0\OptimusEngine.pdb
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\obj\Debug\net6.0\OptimusEngine.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\obj\Debug\net6.0\OptimusEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\obj\Debug\net6.0\OptimusEngine.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\obj\Debug\net6.0\OptimusEngine.AssemblyInfo.cs
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\obj\Debug\net6.0\OptimusEngine.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\obj\Debug\net6.0\OptimusEngine.dll
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\obj\Debug\net6.0\refint\OptimusEngine.dll
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\obj\Debug\net6.0\OptimusEngine.pdb
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\obj\Debug\net6.0\OptimusEngine.genruntimeconfig.cache
+C:\Users\kevin\Documents\GitHub\Meme-Royale\Engine\OptimusEngine\OptimusEngine\obj\Debug\net6.0\ref\OptimusEngine.dll
